@@ -16,23 +16,28 @@
     <li>Se não dé tempo de puxar junta no objetivo</li>
     <li>Se não tem o que fazer, não faça nada</li>
 </ul>
-    <p>Itemização!</p>
-<table>
+    <h2>Itemização!</h2>
+<table width="100%" border="1">
 <tr>
     <th>Itens</th>
     <th>Preço</th>
     <th>Quando fazer</th>
 </tr>
+
 <tr>
     <td>Hydra Raivosa</td>
     <td>3400</td>
     <td>Primeiro item</td>
 </tr>
+
+
 <tr>
     <td>Força da trindade</td>
     <td>3333</td>
     <td>Segundo item</td>
 </tr>
+
+</table>
 <video controls 
 width="560"
 height="315">
