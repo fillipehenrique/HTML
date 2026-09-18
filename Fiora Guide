@@ -16,6 +16,22 @@
     <li>Se não dé tempo de puxar junta no objetivo</li>
     <li>Se não tem o que fazer, não faça nada</li>
 </ul>
-    <p>Splitpush!</p>
+    <p>Itemização!</p>
+<table>
+<tr>
+    <th>Itens</th>
+    <th>Preço</th>
+    <th>Quando fazer</th>
+</tr>
+<tr>
+    <td>Hydra Raivosa</td>
+    <td>3400</td>
+    <td>Primeiro item</td>
+</tr>
+<tr>
+    <td>Força da trindade</td>
+    <td>3333</td>
+    <td>Segundo item</td>
+</tr>
   </body>
 </html>
