@@ -7,7 +7,15 @@
   <body>
     <h1>Como jogar de fiora.</h1>
     <p>Splitpush</p>
-    <p><i>Splitpush</i>.</p>
+<ol>
+    <li>Pegar visão</li>
+    <li>Puxar lane</li>
+</ol>
+    <p><i>Situações adiversas</i>.</p>
+<ul>
+    <li>Se não dé tempo de puxar junta no objetivo</li>
+    <li>Se não tem o que fazer, não faça nada</li>
+</ul>
     <p>Splitpush!</p>
   </body>
 </html>
