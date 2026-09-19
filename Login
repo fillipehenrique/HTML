@@ -4,13 +4,13 @@
     <title>Login</title>
   </head>
   <body>
-  <form action="/pagina-processa-dados-do-form" method="post">
+  <form action="SITE" method="post">
   <fieldset>
     <legend>Bem Vindo</legend>
     <label for="Usuario">Usuario:</label>
-    <input type="text" minlength="5" id: />
+    <input type="text" minlength="5" required />
     <label for="Senha">Senha:</label>
-    <input type="text" minlength="8" />
+    <input type="text" minlength="8" required />
   </fieldset>
   <fieldset>
     <button type="submit">Login</button>
