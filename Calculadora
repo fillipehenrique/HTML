@@ -1,18 +1,3 @@
-// Arquivo JS
-function somar(a,b) {return a+b;}
-function subtrair(a,b) {return a-b;}
-function multiplicar(a,b) {return a*b;}
-function dividir(a,b) {
-  if(b==0)
-   alert("Divisão por Zero!!!!")
- return a/b;
-}
-function exponencual(a,b){
-  return Math.pow(a.b);
-}
-
-
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,5 +16,16 @@ function exponencual(a,b){
       <a href="#" onclick="executar()">Executar</a>
     </form>
     <div id="resp">O resultado aparece aqui</div>
+    <script src="ROT_MOD1-NC3.js"></script>
+    <script>
+      const executar = () => {
+        const a = eval(document.getElementByld("v1".value));
+        const b = eval(document.getElementByld("v2".value));
+        let oper = eval(document.getElementByld("oper").selectedIndex);
+        let resultado = (oper==0)?somar(a,b): (oper==3)?dividir(a,b): exponencial(a,b);
+        document.getElementByld("resp").innerHTML = 
+        'O resultado da operação é ${resultado}';
+      }
+    </script>
   </body>
 </html>
