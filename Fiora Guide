@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style>
+    #fundo{ 
+      background: #FF69B4 ;
+      width: 960px ;
+      margin: 0 auto ;
+      padding: 10px;
+    }
+    </style>
     <meta charset=utf-8">
     <title>Fiora Guide</title>
   </head>
   <body>
-    <h1>Como jogar de Fiora.</h1>
+    <h1 id="fundo">Como jogar de Fiora.</h1>
     <p>Splitpush</p>
 <ol>
     <li>Pegar visão</li>
