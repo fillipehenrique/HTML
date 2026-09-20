@@ -8,6 +8,11 @@
       margin: 0 auto ;
       padding: 10px;
     }
+    #fundo2{ 
+      background: #FFD700 ;
+      width: 960px ;
+      margin: 0 auto ;
+    }
     </style>
     <meta charset=utf-8">
     <title>Fiora Guide</title>
@@ -25,7 +30,7 @@
     <li>Se não tem o que fazer, não faça nada</li>
 </ul>
     <h2>Itemização!</h2>
-<table width="100%" border="1">
+<table id="fundo2" width="100%" border="1" >
 <tr>
     <th>Itens</th>
     <th>Preço</th>
